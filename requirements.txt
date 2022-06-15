@@ -1,0 +1,5 @@
+yahoofinance
+lxml
+pandas
+numpy
+requests
